@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Michaelgermano/Coding_Projects/CS-M117/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/Michaelgermano/.android/build-cache/f54ed6cac5b9c6631f31963defc9c9ebdb7a050f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Michaelgermano/Coding_Projects/CS-M117/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/Michaelgermano/.android/build-cache/f54ed6cac5b9c6631f31963defc9c9ebdb7a050f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/Michaelgermano/Coding_Projects/CS-M117/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/Michaelgermano/.android/build-cache/f54ed6cac5b9c6631f31963defc9c9ebdb7a050f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/Michaelgermano/Coding_Projects/CS-M117/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/Michaelgermano/.android/build-cache/f54ed6cac5b9c6631f31963defc9c9ebdb7a050f/output/res/layout-v21/notification_action.xml"
+    }
+]
